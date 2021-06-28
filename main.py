@@ -2,7 +2,7 @@ import numpy as np
 import neuralNetwork as nn
 import pandas as pd
 
-path = 'D:\\Users\\Koral Kulacoglu\\Coding\\python\\AI\\GenNN\\'
+path = '.\\GenNN\\'
 dataPath = path + 'Data\\'
 modelPath = path + 'Model\\'
 
